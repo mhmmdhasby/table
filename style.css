@@ -23,8 +23,18 @@ body {
 }
 .kotak{
     background:#bbb;
+    padding: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+    border:2px solid #888;
+}
+.sidebar,a{
+    background:#bbb;
     padding: 29px;
     margin-bottom: 17px;
     text-align: center;
     border:2px solid #888;
+    display: block;
+    text-decoration: none;
+    color: red;
 }
